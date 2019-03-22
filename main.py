@@ -9,3 +9,6 @@ print(z)
 
 z = subtract(55,35)
 print(z)
+
+j = subtract(55,35)
+print(j)
